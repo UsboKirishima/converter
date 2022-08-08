@@ -29,7 +29,6 @@
 
 |Warnings|
 |-------------------------------------------------|
-Converter is protected by Copyright, all rights reserved.
 The tool may doesn't works with difficult or long codes, the tool doesn't find JS dependencies, just use vanilla JS without packages.
 
 ## Features
